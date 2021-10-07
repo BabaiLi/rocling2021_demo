@@ -109,17 +109,17 @@
         <tr>
             <td>
                 <audio controls>
-                    <source src="audio/inside/Women/80/gt.wav" type="audio/wav">
+                    <source src="audio/inside/Women/470/gt.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/inside/Women/80/pf.wav" type="audio/wav">
+                    <source src="audio/inside/Women/470/pf.wav" type="audio/wav">
                 </audio>
             </td>
             <td>
                 <audio controls>
-                    <source src="audio/inside/Women/80/pn.wav" type="audio/wav">
+                    <source src="audio/inside/Women/470/pn.wav" type="audio/wav">
                 </audio>
             </td>
         </tr>
