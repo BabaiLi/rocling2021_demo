@@ -4,7 +4,7 @@
 
 ## Config:
 <br>Dataset: AISHELL-3
-<br>Training-set: 17,300 Audios, 100 Audios per Speaker (Use 173 Speakers from Dataset)
+<br>Training-set: 17,300 Audio, 100 Audio per Speaker (Use 173 Speakers from Dataset)
 <br>Iteration: 208,000 (Four days)
 <br>Batch: 8
 <br>Vocoder: HiFi-GAN
