@@ -1,37 +1,245 @@
-## Welcome to GitHub Pages
+# Rocling 2021 Audio Samples!
 
-You can use the [editor on GitHub](https://github.com/BabaiLi/rocling2021_demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Mandarin Multi-Speaker Tacotron 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Config:
+Dataset: AISHELL-3
+Training-set: 17,300 Audios, 100 Audios per Speaker (Use 173 Speakers from Dataset)
+Iteration: 208,000 (Four days)
+Batch: 8
+Vocoder: HiFi-GAN
 
-### Markdown
+# Seen Speaker
+<b> Speaker: SSB0590 </b>
+<b> Text: 我們不能分頭行動 (wo3 men2 bu4 neng2 fen1 tou2 xing2 dong4)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/590/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/590/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<b> Speaker: SSB0863 </b>
+<b> Text: 放首歌來聽叮噹的歌 (fang4 shou3 ge1 lai2 ting1 ding1 dang1 de5 ge1)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/863/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/863/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/863/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-```markdown
-Syntax highlighted code block
+<b> Speaker: SSB0080 </b>
+<b> Text: 中新網七月十四日電 (zhong1 xin1 wang3 qi1 yue4 shi2 si4 ri4 dian4)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Women/80/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Women/80/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Women/80/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<b> Speaker: SSB0470 </b>
+<b> Text: 畢節市的景點有什麼 (bi4 jie2 shi4 de5 jing2 dian2 you3 shen2 me5)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Women/80/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Women/80/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Women/80/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# UnSeen Speaker
+<b> Speaker: SSB1187 </b>
+<b> Text: 請幫我回到廣興衛視 (qing3 bang1 wo3 hui2 dao4 guang3 xi1 wei4 shi4)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Men/1187/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Men/1187/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Men/1187/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-**Bold** and _Italic_ and `Code` text
+<b> Speaker: SSB1745 </b>
+<b> Text: 不斷吸引到用戶的時候 (bu2 duan4 xi1 yin3 dao4 yong4 hu4 de5 shi2 hou4)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Men/1745/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Men/1745/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Men/1745/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-[Link](url) and ![Image](src)
-```
+<b> Speaker: SSB0822 </b>
+<b> Text: 該職位員工可以居住在西雅圖或洛杉磯 (gai1 zhi2 wei4 yuan2 gong1 ke2 yi3 ju1 zhu4 zai4 xi1 ya3 tu2 huo4 luo4 shan1 ji1)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Women/822/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Women/822/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Women/822/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BabaiLi/rocling2021_demo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<b> Speaker: SSB1197 </b>
+<b> Text: 現在你知道百麗兒想要什麼了嗎 (xian4 zai4 ni3 zhi1 dao4 bai3 li4 er2 xiang3 yao4 shen2 mo5 le5 ma5)</b>
+<div style="border:1px black solid;width:1202px;">
+    <table>
+        <tr>
+            <td> Target </td>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Women/1197/gt.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Women/1197/pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/outside/Women/1197/pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
+    </table>
+</div>
