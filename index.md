@@ -129,7 +129,7 @@
 
 # UnSeen Speaker
 <br><b> Speaker: SSB1187 </b>
-<br><b> Text: 請幫我回到廣興衛視 (qing3 bang1 wo3 hui2 dao4 guang3 xi1 wei4 shi4)</b>
+<br><b> Text: 請幫我回到廣西衛視 (qing3 bang1 wo3 hui2 dao4 guang3 xi1 wei4 shi4)</b>
 <div style="border:1px black solid;width:1202px;">
     <table>
         <tr>
