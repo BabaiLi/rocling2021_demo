@@ -16,8 +16,6 @@
     <table>
         <tr>
             <td> Target </td>
-            <td> Post-Filter </td>
-            <td> Post-Net </td>
         </tr>
         <tr>
             <td>
@@ -25,7 +23,15 @@
                     <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
                 </audio>
             </td>
+        </tr>
+        VC
+        <tr>
+            <td> Post-Filter </td>
+            <td> Post-Net </td>
+        </tr>
+        <tr>
             <td>
+                <td>
                 <audio controls>
                     <source src="audio/inside/Men/590/pf.wav" type="audio/wav">
                 </audio>
