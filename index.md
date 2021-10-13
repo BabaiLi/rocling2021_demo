@@ -35,6 +35,26 @@
                     <source src="audio/inside/Men/590/pn.wav" type="audio/wav">
                 </audio>
             </td>
+        </tr>
+        
+        <tr>
+            <th> </th>
+            <th> Post-Filter </th>
+            <th> Post-Net </th>
+        </tr>
+        <tr>
+            <td>SV</td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/590/sv_pf.wav" type="audio/wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/590/sv_pn.wav" type="audio/wav">
+                </audio>
+            </td>
+        </tr>
     </table>
 </div>
 
