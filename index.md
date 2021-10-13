@@ -16,7 +16,7 @@
 <audio controls>
     <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:auto;">
+<div style="border-style:none;width:auto;">
     <table>
         <tr>
             <th> </th>
