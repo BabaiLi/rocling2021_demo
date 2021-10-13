@@ -15,7 +15,9 @@
 <div style="border:1px black solid;width:1202px;">
     <table>
         <tr>
-            <td> Target </td>
+            <th> Target </th>
+            <th>  </th>
+            <th>  </th>
         </tr>
         <tr>
             <td>
@@ -23,15 +25,17 @@
                     <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
                 </audio>
             </td>
-        </tr>
-        VC
-        <tr>
-            <td> Post-Filter </td>
-            <td> Post-Net </td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
+            <th> </th>
+            <th> Post-Filter </th>
+            <th> Post-Net </th>
+        </tr>
+        <tr>
+            <td></td>
             <td>
-                <td>
                 <audio controls>
                     <source src="audio/inside/Men/590/pf.wav" type="audio/wav">
                 </audio>
@@ -41,7 +45,6 @@
                     <source src="audio/inside/Men/590/pn.wav" type="audio/wav">
                 </audio>
             </td>
-        </tr>
     </table>
 </div>
 
