@@ -19,6 +19,14 @@
 <div style="border-style:none;width:auto;">
     <table>
         <tr>
+            <th>Target</th>
+            <th>
+                <audio controls>
+                    <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
+        <tr>
             <th> </th>
             <th> Post-Filter </th>
             <th> Post-Net </th>
