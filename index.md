@@ -59,7 +59,7 @@
 <audio controls>
     <source src="audio/inside/Men/863/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
@@ -102,7 +102,7 @@
 <audio controls>
     <source src="audio/inside/Women/80/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
@@ -145,7 +145,7 @@
 <audio controls>
     <source src="audio/inside/Women/470/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
@@ -190,7 +190,7 @@
 <audio controls>
     <source src="audio/outside/Men/1187/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
@@ -233,7 +233,7 @@
 <audio controls>
     <source src="audio/outside/Men/1745/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
@@ -276,7 +276,7 @@
 <audio controls>
     <source src="audio/outside/Women/822/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
@@ -319,7 +319,7 @@
 <audio controls>
     <source src="audio/outside/Women/1197/gt.wav" type="audio/wav">
 </audio>
-<div style="border:1px black solid;width:600;">
+<div style="border-style:none;width:600;">
     <table>
         <tr>
             <th> </th>
