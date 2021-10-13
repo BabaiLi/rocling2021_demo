@@ -158,7 +158,7 @@
                     <source src="audio/inside/Women/470/gt.wav" type="audio/wav">
                 </audio>
             </th>
-        </rt>
+        </tr>
         <tr>
             <th> </th>
             <th> Post-Filter </th>
@@ -252,7 +252,7 @@
                     <source src="audio/outside/Men/1745/gt.wav" type="audio/wav">
                 </audio>
             </th>
-        </rt>
+        </tr>
         <tr>
             <th> </th>
             <th> Post-Filter </th>
