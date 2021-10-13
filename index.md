@@ -14,15 +14,17 @@
 <br><b> Text: 我們不能分頭行動 (wo3 men2 bu4 neng2 fen1 tou2 xing2 dong4)</b>
 <br><b> Target </b>
 
-<div style="border:1px black solid;width:1202px;">
+<div style="border:1px black solid;width:1102px;">
     <table>
         <tr>
             <th> Target </th>
         </tr>
         <tr>
-            <audio controls>
-                <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
-            </audio>
+            <td>
+                <audio controls>
+                    <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
+                </audio>
+            </td>
         </tr>
         <tr>
             <th> </th>
