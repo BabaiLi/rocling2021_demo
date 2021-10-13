@@ -13,11 +13,17 @@
 <br><b> Speaker: SSB0590 </b>
 <br><b> Text: 我們不能分頭行動 (wo3 men2 bu4 neng2 fen1 tou2 xing2 dong4)</b>
 <br><b> Target </b>
-<audio controls>
-    <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
-</audio>
+
 <div style="border:1px black solid;width:1202px;">
     <table>
+        <tr>
+            <th> Target </th>
+        </tr>
+        <tr>
+            <audio controls>
+                <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
+            </audio>
+        </tr>
         <tr>
             <th> </th>
             <th> Post-Filter </th>
@@ -35,12 +41,6 @@
                     <source src="audio/inside/Men/590/pn.wav" type="audio/wav">
                 </audio>
             </td>
-        </tr>
-        
-        <tr>
-            <th> </th>
-            <th> Post-Filter </th>
-            <th> Post-Net </th>
         </tr>
         <tr>
             <td>SV</td>
