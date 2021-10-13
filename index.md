@@ -9,24 +9,34 @@
 <br>Batch: 8
 <br>Vocoder: HiFi-GAN
 
+td[class=first]:before{
+    content: "";
+    position: absolute;
+    width: 1px;
+    height:114px;/*這里需要自己調整，根據td的寬度和高度*/
+    top:0;
+    left:0;
+    background-color: black;
+    display: block;
+    transform: rotate(-63deg);/*這里需要自己調整，根據線的位置*/
+    transform-origin: top;
+}
+
 # Seen Speaker
 <br><b> Speaker: SSB0590 </b>
 <br><b> Text: 我們不能分頭行動 (wo3 men2 bu4 neng2 fen1 tou2 xing2 dong4)</b>
 <div style="border:1px black solid;width:1202px;">
     <table>
         <tr>
-            <th> Target </th>
-            <th>  </th>
-            <th>  </th>
-        </tr>
-        <tr>
+            <td>
+                Target    
+            </td>
             <td>
                 <audio controls>
                     <source src="audio/inside/Men/590/gt.wav" type="audio/wav">
                 </audio>
             </td>
-            <td></td>
-            <td></td>
+            <td class="first"></td>
         </tr>
         <tr>
             <th> </th>
@@ -34,7 +44,7 @@
             <th> Post-Net </th>
         </tr>
         <tr>
-            <td></td>
+            <td>VC</td>
             <td>
                 <audio controls>
                     <source src="audio/inside/Men/590/pf.wav" type="audio/wav">
